@@ -17,10 +17,15 @@ Database Used:
 SQLite
 
 Features:
-i just add ah brandname "desyenti"
 
 - Add Task
 - View Tasks
 - Edit Task
 - Delete Task
 - Update Status
+
+added features:
+
+-Brandname "desyenti"
+-Simple qoutes!
+
