@@ -24,7 +24,7 @@ Features:
 - Delete Task
 - Update Status
 
-added features:
+Added features:
 
 -Brandname "desyenti"
 
