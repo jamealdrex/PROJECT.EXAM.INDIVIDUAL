@@ -30,3 +30,15 @@ Added features:
 
 -Simple qoutes!
 
+
+<img width="1919" height="554" alt="image" src="https://github.com/user-attachments/assets/bcfa10d7-7f0e-4c30-97e8-3aaf7b568b30" />
+
+
+<img width="1502" height="688" alt="image" src="https://github.com/user-attachments/assets/78e8aa58-1a56-492e-9b97-fe898a005edd" />
+
+
+<img width="290" height="112" alt="image" src="https://github.com/user-attachments/assets/0781d399-2cd9-43d8-8b09-253e724c0704" />
+
+
+
+
